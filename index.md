@@ -7,11 +7,11 @@ layout: default
 
 Apps and projects.
 
-## Swarmfront
+## Hivebreak
 
-A wave-based bug-shooter for Apple Vision Pro. Hunt swarming bugs across four
-alien worlds, beat the Overseer, then test how long you can survive in
-endless mode.
+A hand-tracking action game for Apple Vision Pro. Fight off waves of bugs across
+four alien worlds and beat the Overseer — then strap into a starfighter cockpit
+and dogfight among the planets. Hand tracking or PSVR2 Sense controllers.
 
 - [Privacy policy](/privacy)
 - Support: [joshfisk3@gmail.com](mailto:joshfisk3@gmail.com)
