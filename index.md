@@ -16,6 +16,15 @@ sessions without opening the Admin Console.
 - [About and support](/rollcall/)
 - [Privacy policy](/rollcall/privacy/)
 
+## Meshbar: Tailnet Monitor
+
+Your tailnet, from the Mac menu bar. Online count in the menu bar, every
+device with its state and key expiry, and notifications when a device goes
+offline, a key is about to expire, or a new machine joins.
+
+- [About and support](/meshbar/)
+- [Privacy policy](/meshbar/privacy/)
+
 ## Hivebreak
 
 A hand-tracking action game for Apple Vision Pro. Fight off waves of bugs across
