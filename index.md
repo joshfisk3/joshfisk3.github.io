@@ -7,6 +7,16 @@ layout: default
 
 Apps and projects.
 
+## Postcheck
+
+Email authentication health for your domains, from the menu bar. Checks MX,
+SPF, DKIM, DMARC, MTA-STS, TLS-RPT, BIMI and blocklists, grades each domain
+A–F with the exact DNS record to fix each problem, watches for drift, and
+turns DMARC aggregate reports into a plain answer to "is it safe to enforce?".
+
+- [About and support](/postcheck/)
+- [Privacy policy](/postcheck/privacy/)
+
 ## Rollcall for Google Workspace
 
 Admin for Google Workspace, from your Mac's menu bar. Search users, check
