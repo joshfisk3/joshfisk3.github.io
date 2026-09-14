@@ -7,6 +7,14 @@ layout: default
 
 Apps and projects.
 
+## Shoreline: DO Cloud Monitor
+
+Your DigitalOcean team in the Mac menu bar: droplet status and count, details
+and charts, resources, billing, alerts, pm2 and a terminal over SSH.
+
+- [Support and setup](/shoreline/)
+- [Privacy policy](/shoreline/privacy/)
+
 ## Postcheck
 
 Email authentication health for your domains, from the menu bar. Checks MX,
